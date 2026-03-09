@@ -16,22 +16,28 @@ Here are some ideas to get you started:
 -->
 # Owen Inglese
 
-I build Python-based knowledge systems focused on document normalization, semantic tagging, and graph-oriented exploration.
+I build Python systems that transform messy documents into structured, navigable knowledge.
+My work focuses on document normalization, semantic tagging, and graph-based exploration.
 
 ## Focus Areas
-- Documentation architecture
-- Markdown and vault tooling
-- OCR and text normalization pipelines
-- Controlled vocabularies and semantic tagging
+- Documentation architecture  
+- Markdown knowledge vault tooling  
+- OCR and text normalization pipelines  
+- Controlled vocabularies and semantic tagging  
 - Knowledge graph design
 
 ## Flagship Projects
-- **Vault-Linker** — structured knowledge-graph engine for Markdown vaults
-- **Humigraph** — cigar OCR, semantic tagging, and knowledge graph exploration
-- **Filmofile** — social film review app
+- **Vault-Linker** — knowledge-graph engine for Markdown vaults
+- **Humigraph** — cigar OCR → semantic tagging → knowledge graph
+- **Filmofile** — social film review platform
 
 ## Current Direction
 I’m developing systems that turn messy documents into structured, navigable knowledge.
 
 ## Tech
-Python, Markdown, data modeling, CLI tooling, information architecture
+- Python  
+- Markdown processing  
+- CLI tooling  
+- Data modeling  
+- Information architecture  
+- Knowledge graph design
